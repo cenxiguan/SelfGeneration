@@ -14,7 +14,7 @@
 	You can see the result is 
 	0a1
 	> Hello
-	32a34
+	44a46
 	> Goodbye
 	It proves my program generates an exact copy of itself between
 	"Hello" and "Goodbye".

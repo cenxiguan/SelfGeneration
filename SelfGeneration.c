@@ -42,4 +42,3 @@ int main() {
 		puts(s[k]);
 	return 0;
 } 
-
